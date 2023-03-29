@@ -1,0 +1,5 @@
+C:\Users\99455\Desktop\hecer c++\CodeAcademy.App\obj\Debug\net6.0\CodeAcademy.App.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\CodeAcademy.App\obj\Debug\net6.0\CodeAcademy.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\CodeAcademy.App\obj\Debug\net6.0\CodeAcademy.App.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\CodeAcademy.App\obj\Debug\net6.0\CodeAcademy.App.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\CodeAcademy.App\obj\Debug\net6.0\CodeAcademy.App.csproj.CoreCompileInputs.cache

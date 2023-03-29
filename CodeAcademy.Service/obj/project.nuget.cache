@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU20afshHJbBf4M6trZ9Gv6TG14WRJyqAdRvq+ORcdExfx871ThoXeDX6FQSN3vOgSKkOYkPp5CE4aS0bCGtnw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\99455\\Desktop\\Layihe1\\CodeAcademy.Service\\CodeAcademy.Service.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\99455\\Desktop\\Layihe1\\CodeAcademy.Core\\CodeAcademy.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\99455\\Desktop\\Layihe1\\CodeAcademy.Core\\CodeAcademy.Core.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
